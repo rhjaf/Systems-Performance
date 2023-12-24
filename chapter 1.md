@@ -13,7 +13,7 @@ Definitions of Performance:
   9. performance analysis of production issues
   10. incident review of production issues
   11. use or develop performance tools to enhance production
-  Stpes 1-5 are always executed. But by arising cloud platforms, It is not needed to do these steps and jump forward to step 6
+  - Stpes 1-5 are always executed. But by arising cloud platforms, It is not needed to do these steps and jump forward to step 6
   - canary testing: one component test
   - blue-green test: bring up a copy version to perform develop on it while the current stable product works
   - steps 9 and 10 are like developer's retrospective mettings.
